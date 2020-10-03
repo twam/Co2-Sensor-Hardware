@@ -1,4 +1,4 @@
-18100796049719941
+18102403883094941
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56979,6 +56979,13 @@ mounting hole 8.4mm m8
 0
 9
 1
+MountingHole
+MountingHole_JLCPCB
+Mounting Hole 1.2mm, no annular
+mounting hole 1.2mm no annular
+0
+0
+0
 Mounting_Wuerth
 Mounting_Wuerth_WA-SMSE-ExternalM3_H5mm_9771050360
 Mounting Hardware, external M3, height 5, Wuerth electronics 9771050360 (https://katalog.we-online.com/em/datasheet/9771050360.pdf), generated with kicad-footprint-generator
