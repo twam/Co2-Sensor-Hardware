@@ -1,4 +1,4 @@
-18102403883094941
+18128842459345941
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -32333,6 +32333,13 @@ Through hole angled pin header THT 1x16 2.54mm single row
 16
 16
 Connector_PinHeader_2.54mm
+PinHeader_1x16_P2.54mm_Horizontal_SMD
+Through hole angled pin header, 1x16, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x16 2.54mm single row
+0
+16
+16
+Connector_PinHeader_2.54mm
 PinHeader_1x16_P2.54mm_Vertical
 Through hole straight pin header, 1x16, 2.54mm pitch, single row
 Through hole pin header THT 1x16 2.54mm single row
@@ -44512,6 +44519,13 @@ USB C Type-C Receptacle USB2.0
 0
 20
 17
+Connector_USB
+USB_C_Receptacle_UCF-039CxxCx-1x
+https://datasheet.lcsc.com/szlcsc/1811131841_Jing-Extension-of-the-Electronic-Co-C168704_C168704.pdf
+
+0
+18
+15
 Connector_USB
 USB_C_Receptacle_XKB_U262-16XN-4BVC11
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
